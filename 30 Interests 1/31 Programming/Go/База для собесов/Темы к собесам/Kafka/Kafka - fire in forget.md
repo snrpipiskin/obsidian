@@ -4,7 +4,7 @@ noteId: 1743196646798
 
 
 
-![[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Kafka/Kafka|Kafka]]
+![[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Kafka/Kafka|Kafka]]
 
 ### ==**База по Kafka**==
 

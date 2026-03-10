@@ -1,5 +1,6 @@
 ---
 related: "[[30 Interests/31 Programming/Golang_Import/Базы данных]]"
+noteId: 1772782720135
 ---
 Что такое EXPLAIN ANALYZE и для чего это нужно?
 

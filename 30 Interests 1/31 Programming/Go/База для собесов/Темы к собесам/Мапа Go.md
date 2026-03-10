@@ -145,6 +145,6 @@ m = make(map[string]int, 100)
 
 ## 9. Дополнительные источники
 
-- [[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Мапа Go#Внутреннее устройство map в Go > 1.25 (Swiss Tables) и Система Типов|Deep Dive: Swiss Tables & ABI]]
+- [[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Мапа Go#Внутреннее устройство map в Go > 1.25 (Swiss Tables) и Система Типов|Deep Dive: Swiss Tables & ABI]]
 - [Мапы в Go: уровень Pro / habr](https://habr.com/ru/companies/avito/articles/774618/)
 - [Разбираемся с sync.Map / habr](https://habr.com/ru/articles/338718)

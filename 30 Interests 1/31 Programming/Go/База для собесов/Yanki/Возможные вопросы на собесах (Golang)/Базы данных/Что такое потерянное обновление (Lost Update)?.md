@@ -1,5 +1,6 @@
 ---
 related: "[[30 Interests/31 Programming/Golang_Import/Базы данных]]"
+noteId: 1772782719986
 ---
 Что такое потерянное обновление (Lost Update) и как его избежать?
 

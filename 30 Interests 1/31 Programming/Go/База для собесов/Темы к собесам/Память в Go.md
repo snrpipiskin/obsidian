@@ -4,7 +4,7 @@ noteId: 1743196637255
 
 # Память в Go (Stack & Heap)
 
-[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Go Runtime]] использует сложную модель управления памятью, основанную на **TCMalloc** (Thread-Caching Malloc). Это позволяет минимизировать блокировки и фрагментацию.
+[[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Go Runtime]] использует сложную модель управления памятью, основанную на **TCMalloc** (Thread-Caching Malloc). Это позволяет минимизировать блокировки и фрагментацию.
 
 ## 1. Стек (Stack) vs Куча (Heap)
 
@@ -135,5 +135,5 @@ type Good struct {
 
 ## Дополнительные источники
 - [Go Memory Allocator Visual Guide](https://blog.learngopro.com/go-memory-allocator-visual-guide/)
-- [[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Сборщик мусора (GC)]]
+- [[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Сборщик мусора (GC)]]
 - `src/runtime/malloc.go`

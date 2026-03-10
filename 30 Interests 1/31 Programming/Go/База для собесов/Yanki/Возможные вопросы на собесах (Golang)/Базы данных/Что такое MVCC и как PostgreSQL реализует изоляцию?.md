@@ -1,5 +1,6 @@
 ---
 related: "[[30 Interests/31 Programming/Golang_Import/Базы данных]]"
+noteId: 1772782720161
 ---
 Что такое MVCC и как PostgreSQL реализует изоляцию?
 

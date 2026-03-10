@@ -1,8 +1,8 @@
 ---
 noteId: 1743196638973
 related:
-  - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Go Runtime]]"
-  - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Планировщик]]"
+  - "[[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Go Runtime]]"
+  - "[[Obsidian Sync/30 Interests 1/31 Programming/Go/База для собесов/Темы к собесам/Планировщик]]"
 ---
 
 # Работа с синхронизацией в Go (пакет `sync` и `sync/atomic`)

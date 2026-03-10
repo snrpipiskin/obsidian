@@ -1,6 +1,7 @@
 ---
 related:
-  - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Kafka/Kafka|Kafka]]"
+  - "[[30 Interests/31 Programming/Golang_Import/Kafka|Kafka]]"
+noteId: 1772782720586
 ---
 
 
