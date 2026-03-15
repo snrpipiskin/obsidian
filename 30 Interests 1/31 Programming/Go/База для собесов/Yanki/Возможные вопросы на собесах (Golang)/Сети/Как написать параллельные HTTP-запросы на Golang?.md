@@ -1,7 +1,7 @@
 ---
 related:
   - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Сети]]"
-  - "[[30 Interests/31 Programming/Golang_Import/Горутины]]"
+  - "[[30 Interests/31 Programming/Go/Golang_Import/Горутины]]"
 noteId: 1772782720261
 ---
 Как написать параллельные HTTP-запросы на Golang?

@@ -3,7 +3,7 @@ noteId: 1771155062309
 related:
   - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Планировщик]]"
   - "[[30 Interests/31 Programming/Go/База для собесов/Темы к собесам/Go Runtime]]"
-  - "[[30 Interests/31 Programming/Golang_Import/Сборщик мусора]]"
+  - "[[30 Interests/31 Programming/Go/Golang_Import/Сборщик мусора]]"
 ---
 Что такое sysmon?
 
